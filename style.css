@@ -1,0 +1,14 @@
+body{
+    background-color: darksalmon;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    margin: 30px 200px;
+    text-align: justify;
+    font-size: 25px;
+}
